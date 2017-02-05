@@ -9,3 +9,4 @@ lIST (for more info click on the name of the cipher/code):
 4. [KEYWORD CIPHER](https://en.wikipedia.org/wiki/Keyword_cipher)
 5. [tHe bEALE cIPHER](https://en.wikipedia.org/wiki/Beale_ciphers)
 6. [mATRIX cIPHER] (https://www.reddit.com/r/dailyprogrammer/comments/tux8f/5192012_challenge_54_easy/)
+7. cRAB cIPHER (iNVERTS EACH GIVEN WORD. EXAMPLE: The crab walks backwards. translation: ehT barc sklaw .sdrawkcab)
