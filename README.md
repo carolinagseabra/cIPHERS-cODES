@@ -10,4 +10,4 @@ lIST (for more info click on the name of the cipher/code):
 5. [tHe bEALE cIPHER](https://en.wikipedia.org/wiki/Beale_ciphers) -d
 6. [mATRIX cIPHER] (https://www.reddit.com/r/dailyprogrammer/comments/tux8f/5192012_challenge_54_easy/) -ed
 7. cRAB cIPHER (iNVERTS EACH GIVEN WORD. EXAMPLE: The crab walks backwards. encrypt message: ehT barc sklaw .sdrawkcab) -ed
-8.pASSA UM mELRO (aDDS A RANDOM LETTER BETWEEN EACH CHARACTER OF THE MESSAGE. EXAMPLE: Melro is a bird. encrypt message: MKewlKrCon riEsJ HaZ LboiLrddB.L) -ed
+8. pASSA UM mELRO (aDDS A RANDOM LETTER BETWEEN EACH CHARACTER OF THE MESSAGE. EXAMPLE: Melro is a bird. encrypt message: MKewlKrCon riEsJ HaZ LboiLrddB.L) -ed
